@@ -21,4 +21,4 @@ The core topic of this Sky Hackathon is "Building Intelligent Conversation Robot
 
 
 下面是实现示例
-![alt text](screen shot.png)
+![image](https://github.com/Simon006/NvHacker_10th_SkyHackathon/blob/main/screen%20shot.png)
