@@ -6,6 +6,7 @@ The core topic of this Sky Hackathon is "Building Intelligent Conversation Robot
 
 
 ### 下面是本项目的核心模块以及对应核心实现逻辑
+- 基于机器学习和深度学习的书籍数据构建FAISS数据库,并简单完成一个机器学习助手chatbot
 - data_prerprocess 模块：
     - 实现pdf/txt的读入，并用NIM api完成 text -> embedding -> faiss_index ---> save local file
 
@@ -17,3 +18,7 @@ The core topic of this Sky Hackathon is "Building Intelligent Conversation Robot
  
 - gradio
     - 设置端口/app/router       
+
+
+下面是实现示例
+![alt text](screen shot.png)
